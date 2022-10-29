@@ -31,7 +31,7 @@ var array=[
     },
     {
         "id":4,
-        "name":"Jai",
+        "name":"Ajay",
         "class":"premium",
         "img":"https://thumbs.dreamstime.com/b/portrait-handsome-smiling-young-man-folded-arms-smiling-joyful-cheerful-men-crossed-hands-isolated-studio-shot-172869765.jpg",
         "post" :"Manager",
@@ -39,7 +39,7 @@ var array=[
     },
     {
         "id":5,
-        "name":"dayana",
+        "name":"Preeti",
         "class":"premium",
         "img":"https://images.unsplash.com/photo-1524250502761-1ac6f2e30d43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
         "post" :"UI-Team",
@@ -47,7 +47,7 @@ var array=[
     },
     {
         "id":6,
-        "name":"Jayashree",
+        "name":"shree",
         "class":"premium",
         "img":"https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
         "post" :"Hr-Manager",
